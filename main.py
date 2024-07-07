@@ -1,5 +1,4 @@
-# Implemented by Zhuoyu Yang, Matsushita Lab., Osaka University, Mar. 30th 2020.
-# Modified at July 20th 2020. Support adding depth prior.
+
 import cv2
 import argparse
 
